@@ -10,5 +10,8 @@ namespace AdminRoleSelect
 
         [Description("Whether or not you can only select SCP roles with the command.")]
         public bool AllowScpOnly { get; set; } = false;
+
+        [Description("Show debug messages?")]
+        public bool Debug { get; set; } = false;
     }
 }
