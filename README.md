@@ -7,27 +7,27 @@ Prevents over-spawning of SCP's because of selecting one from an admin.
 ars select RoleType
 
 ## RoleType
-Scp173
-Scp106
-Scp049
-Scp079
-Scp0492
-Scp096
-Scp93953
-Scp93989
-Spectator
-ChaosConscript
-ChaosRifleman
-ChaosRepressor
-ChaosMarauder
-ClassD
-Scientist
-FacilityGuard
-NtfPrivate
-NtfSpecialist
-NtfSergeant
-NtfCaptain
-Tutorial
+- Scp173
+- Scp106
+- Scp049
+- Scp079
+- Scp0492
+- Scp096
+- Scp93953
+- Scp93989
+- Spectator
+- ChaosConscript
+- ChaosRifleman
+- ChaosRepressor
+- ChaosMarauder
+- ClassD
+- Scientist
+- FacilityGuard
+- NtfPrivate
+- NtfSpecialist
+- NtfSergeant
+- NtfCaptain
+- Tutorial
 
 ## Permissions
 ars.select
