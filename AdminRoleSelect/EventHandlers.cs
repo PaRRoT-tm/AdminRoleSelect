@@ -18,7 +18,7 @@ namespace AdminRoleSelect
 
         public void OnChangingRole(ChangingRoleEventArgs ev)
         {
-            Log.Info($"{nameof(OnChangingRole)}: fired");
+            Log.Debug($"{nameof(OnChangingRole)}: fired", Plugin.Instance.Config.Debug);
             if (!first)
                 return;
 
